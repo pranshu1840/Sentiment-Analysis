@@ -28,5 +28,5 @@ Run the development server:
 
 ### 4. Access the Application
 
-    Open your web browser and go to `http://127.0.0.1:8000/` to interact with the application.
+    Open your web browser and go to `http://127.0.0.1:8000/polls` to interact with the application.
 
