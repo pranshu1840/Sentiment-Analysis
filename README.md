@@ -4,7 +4,7 @@
 
 ### 1. Install Dependencies
 
-Make sure you have Python and pip installed. Install the required Python packages by running:
+Make sure you have Python and pip installed. Install the required Python packages by running (would suggest creating a virtual environment before):
 
 
     pip install -r requirements.txt
